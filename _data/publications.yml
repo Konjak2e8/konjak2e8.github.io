@@ -1,7 +1,7 @@
 main:
 
   - title: "MARS-Sep: Multimodal-Aligned Reinforced Sound Separation"
-    authors: <strong>Zihan Zhang*</strong>, Xize Cheng, Zhennan Jiang, Dongjie Fu, Jingyuan Chen, Zhou Zhao, Tao Jin* (*Corresponding author))
+    authors: <strong>Zihan Zhang*</strong>, Xize Cheng, Zhennan Jiang, Dongjie Fu, Jingyuan Chen, Zhou Zhao, Tao Jin* (*Corresponding author)
     conference_short: ArXiv
     conference: arXiv preprint arXiv:2510.10509, 2025.
     pdf: https://arxiv.org/pdf/2510.10509.pdf
