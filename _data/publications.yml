@@ -2,13 +2,13 @@ main:
 
   - title: "MARS-Sep: Multimodal-Aligned Reinforced Sound Separation"
     authors: <strong>Zihan Zhang</strong>, Xize Cheng, Zhennan Jiang, Dongjie Fu, Jingyuan Chen, Zhou Zhao, Tao Jin* (*Corresponding authors)
-    conference_short: ArXiv
-    conference: arXiv preprint arXiv:2510.10509, 2025.
+    conference_short: ICLR 2026
+    conference: The Fourteenth International Conference on Learning Representations
     pdf: https://arxiv.org/pdf/2510.10509.pdf
     code: https://github.com/mars-sep/MARS-Sep
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:j7iijmfjPlUJ:scholar.google.com/&output=citation&scisdr=Cn2Q_mXpEMXSibDBc30:AHkA5jQAAAAAaXnHa30p7BRFAtl9Mn-sQiBX6ME&scisig=AHkA5jQAAAAAaXnHa45mCAGUCGl4JmBAygXyJ1o&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/mars-sep.png
-    notes: Under Review
+    notes: 
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
